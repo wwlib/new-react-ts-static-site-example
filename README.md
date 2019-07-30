@@ -42,3 +42,11 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+
+#### reference
+- https://www.pluralsight.com/guides/react-router-typescript
+- https://codepen.io/satoshiyamamoto/pen/QGobmG
+- https://tylermcginnis.com/react-router-cannot-get-url-refresh/
+- https://blog.pshrmn.com/entry/simple-react-router-v4-tutorial/
+- https://reacttraining.com/react-router/
